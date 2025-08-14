@@ -66,8 +66,3 @@
 - Understand **Incremental Learning** & Model Deployment
 
 ---
-
-## 🚀 How to Use This Repo
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/data-science-projects.git
